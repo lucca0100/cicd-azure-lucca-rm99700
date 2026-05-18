@@ -1,0 +1,12 @@
+{
+  "name": "cicd-azure-lucca-rm99700",
+  "version": "1.0.0",
+  "description": "Projeto de CI/CD com GitHub Actions e Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
